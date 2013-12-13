@@ -1,4 +1,4 @@
-Kim Hosts, free to explorer google!
+Be free to explorer google!
 ================
 
 1. Add Google Dev support.
